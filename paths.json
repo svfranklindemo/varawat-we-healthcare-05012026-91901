@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/varawat-varawat-2026-1-5-14-48-57/language-masters/en:/",
+    "/content/varawat-varawat-2026-1-5-14-48-57/language-masters/en/:/en/",
+    "/content/varawat-varawat-2026-1-5-14-48-57/language-masters/fr/:/fr/",
+    "/content/varawat-varawat-2026-1-5-14-48-57/language-masters/fr:/fr",
+    "/content/varawat-varawat-2026-1-5-14-48-57/language-masters/es/:/es/",
+    "/content/varawat-varawat-2026-1-5-14-48-57/language-masters/es:/es",
+    "/content/varawat-varawat-2026-1-5-14-48-57/language-masters/ja/:/ja/",
+    "/content/varawat-varawat-2026-1-5-14-48-57/language-masters/ja:/ja",
+    "/content/varawat-varawat-2026-1-5-14-48-57/language-masters/de/:/de/",
+    "/content/varawat-varawat-2026-1-5-14-48-57/language-masters/de:/de",
+    "/content/varawat-varawat-2026-1-5-14-48-57/configuration:/.helix/config.json",
+    "/content/varawat-varawat-2026-1-5-14-48-57/metadata:/metadata.json",
+    "/content/varawat-varawat-2026-1-5-14-48-57/redirects:/redirects.json",
+    "/content/varawat-varawat-2026-1-5-14-48-57/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/varawat-varawat-2026-1-5-14-48-57/",
+    "/content/dam/varawat-varawat-2026-1-5-14-48-57/"
   ]
 }
